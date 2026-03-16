@@ -2,3 +2,4 @@
 @@||*.plex.tv^
 @@||nextcloud.tail0892d0.ts.net^
 @@||*.tail0892d0.ts.net^
+@@||Archive.org^
