@@ -4,3 +4,9 @@
 @@||*.tail0892d0.ts.net^
 @@||archive.org^
 @@||sync-v2.brave.com^
+@@||api.themoviedb.org^
+@@||ichnaea-web.netflix.com^
+@@||metrics-config.icloud.com^
+@@||metrics.icloud.com^
+@@||events.gfe.nvidia.com^
+@@||prod.otel.kaizen.nvidia.com^
