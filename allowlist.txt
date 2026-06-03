@@ -10,7 +10,4 @@
 @@||metrics.icloud.com^
 @@||events.gfe.nvidia.com^
 @@||prod.otel.kaizen.nvidia.com^
-@@||mcs.tiktokw.us^
-@@||mcs.tiktokv.us^
-@@||tiktokw.us^
-@@||tiktokv.us^
+@@||camo.githubusercontent.com^
