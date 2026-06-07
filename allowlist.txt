@@ -11,3 +11,5 @@
 @@||events.gfe.nvidia.com^
 @@||prod.otel.kaizen.nvidia.com^
 @@||camo.githubusercontent.com^
+@@||*.pahe.ink^
+@@||*pahe.ink^
