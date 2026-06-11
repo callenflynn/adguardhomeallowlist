@@ -15,13 +15,3 @@
 @@||*pahe.ink^
 @@||play.xbox.com^
 @@||*.play.xbox.com^
-@@||activity.windows.com^
-@@||assets.activity.windows.com^
-@@||browser.pipe.aria.microsoft.com^
-@@||arc.msn.com^
-@@||c.bing.com^
-@@||c.msn.com^
-@@||inputsuggestions.msdxcdn.microsoft.com^
-@@||connectivity-test.usercontent.microsoft^
-@@||connectivity-test.cloud.microsoft^
-@@||connectivity-test.static.microsoft^
