@@ -13,3 +13,5 @@
 @@||camo.githubusercontent.com^
 @@||*.pahe.ink^
 @@||*pahe.ink^
+@@||*.play.xbox.com
+@@||play.xbox.com
