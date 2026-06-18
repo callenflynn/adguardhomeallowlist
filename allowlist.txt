@@ -15,3 +15,5 @@
 @@||*pahe.ink^
 @@||play.xbox.com^
 @@||*.play.xbox.com^
+@@||*.z.ai
+@@||z.ai
