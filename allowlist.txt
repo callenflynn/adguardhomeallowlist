@@ -17,3 +17,5 @@
 @@||*.play.xbox.com^
 @@||*.z.ai
 @@||z.ai
+@@||*.hits.sh
+@@||hits.sh
