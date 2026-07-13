@@ -20,3 +20,4 @@
 @@||*.hits.sh^
 @@||hits.sh^
 @@||api.themoviedb.org^
+@@||store1-ibatv.local^
