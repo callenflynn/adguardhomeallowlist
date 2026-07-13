@@ -15,7 +15,8 @@
 @@||*pahe.ink^
 @@||play.xbox.com^
 @@||*.play.xbox.com^
-@@||*.z.ai
-@@||z.ai
-@@||*.hits.sh
-@@||hits.sh
+@@||*.z.ai^
+@@||z.ai^
+@@||*.hits.sh^
+@@||hits.sh^
+@@||api.themoviedb.org^
